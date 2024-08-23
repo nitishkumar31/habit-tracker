@@ -1,4 +1,20 @@
-# Getting Started with Create React App
+# Habbit Tracker Application
+
+## Features
+
+1. Flexible Habit Management
+   - Track a wide range of habits such as reading, exercising, or meditating. Add as many habits as you want to monitor your progress across different activities.
+
+2. Comprehensive Daily Tracking
+   - Record your daily progress with three distinct statuses:
+     - Done: Successfully completed the habit for the day.
+     - Not Done: Did not complete the habit for the day.
+     - No Action: No action was recorded for the habit on that day.
+
+3. User-Friendly Habit Overview
+   - Access a centralized view displaying all your current habits. Easily add new habits with a single click using the "Add" button for seamless habit management.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
